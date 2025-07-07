@@ -82,4 +82,7 @@
     
 
 
+    <!-- Internet -->
+    <string name="status_bar_settings_network_speed">Internet speed</string>
+
 </resources>
